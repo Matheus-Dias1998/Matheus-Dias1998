@@ -15,7 +15,6 @@ Atualmente, meu objetivo é conquistar uma oportunidade como Desenvolvedor ou Es
 - JavaScript  
 - Git & GitHub  
 
-*(adicione mais conforme você for aprendendo)*  
 
 ---
 
