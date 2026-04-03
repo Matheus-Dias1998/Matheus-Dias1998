@@ -2,11 +2,13 @@
 
 **`Desenvolvedor Full Stack em formação`**
 
-Me chamo Matheus Dias, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou focado no desenvolvimento de aplicações web modernas.  
+Me chamo Matheus Dias, sou estudante de Análise e Desenvolvimento de Sistemas na Unip - Universidade Paulista e estou construindo minha carreira na área de tecnologia.  
 
-Tenho experiência na criação de sites e sistemas web, trabalhando tanto no front-end quanto no back-end. Estou sempre buscando evoluir minhas habilidades e aprender novas tecnologias.  
+atuando em desenvolvimento web, criando sites e sistemas que sejam funcionais e bem estruturados, com conhecimento no front-end quanto no back-end.  
 
-Atualmente, meu objetivo é conquistar uma oportunidade como Desenvolvedor ou Estagiário na área de tecnologia.".
+Atualmente, também venho explorando o uso de Inteligência Artificial como apoio em projetos e soluções digitais, buscando entender como essa tecnologia pode otimizar processos e gerar mais valor para negócios.  
+
+Estou em constante evolução, aprendendo novas ferramentas e melhorando minhas habilidades práticas, com o objetivo de conquistar uma oportunidade como Desenvolvedor ou Estagiário na área..".
 
 ## 🚀 Linguagens e Tecnologias
 
